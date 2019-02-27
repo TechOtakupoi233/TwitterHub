@@ -19,3 +19,6 @@ TFM最早是根据中文圈推友们的bio，置顶推文等获取推友之间�
 /ProfilePics = 头像资源库，保存所有推友使用过并被记录下的头像
 /OldVersions = 曾经提交过的所有版本的PNG文件(文件名为时间)和PSD文件(文件名为版本号)
 Twitter Family Project.psd = 本项目的最新工程文件
+
+## 鸣谢
+感谢@Sakata_kuroi提供的坂田家纹原图 
