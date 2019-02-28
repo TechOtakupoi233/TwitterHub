@@ -1,3 +1,7 @@
+## 文件名标准
+\Old Versions
+-Version.psd
+-Date(yyyymmdd).png
 ### 图像标准
 0.8cm*0.8cm(<>126*126px)
 ### 目录标准
