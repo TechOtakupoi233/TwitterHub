@@ -22,7 +22,7 @@ TFM动画化计划。成品将会是TFM历代版本变迁的动画。由于性�
 ### 使用说明
 /Fonts = 字体库
 /ProfilePics = 头像资源库，保存所有画中推友使用过并被记录下的头像
-/OldVersions = 曾经提交过的所有版本的PNG文件({YYYY-MM-DD})和PSD文件({VersionCode})
+/OldVersions = 曾经提交过的所有版本的PNG文件( `YYYY-MM-DD` )和PSD文件( `VersionCode` )
 
 ## 鸣谢
 感谢@Sakata_kuroi提供的坂田家纹原图
