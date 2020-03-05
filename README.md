@@ -1,5 +1,4 @@
 ﻿# TwitterHub
-## Twitter Family Project资源库
 本资源库用于保存所有Twitter Family Project相关的资源文件。
 
 ### 关于Twitter Family Project
